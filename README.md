@@ -1,4 +1,5 @@
 # IDS706_DE_Wk1
+[![Python Template for IDS706](https://github.com/Gechyb/IDS706_DE_Wk1/actions/workflows/main.yml/badge.svg)](https://github.com/Gechyb/IDS706_DE_Wk1/actions/workflows/main.yml)
 
 ## Create your first project for Data Engineering Systems (IDS 706)
 
